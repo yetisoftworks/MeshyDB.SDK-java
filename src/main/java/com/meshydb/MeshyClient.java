@@ -3,7 +3,14 @@
  */
 package com.meshydb;
 
+/**
+ * Class for Meshy Client.
+ */
 public class MeshyClient {
+   /**
+   * Test Method for library.
+   * @return  dummy value
+   */
     public boolean someLibraryMethod() {
         return true;
     }
